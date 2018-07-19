@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: poc
 title: Adding an Access Point
 ---
 
