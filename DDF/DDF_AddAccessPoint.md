@@ -5,6 +5,8 @@ title: Adding an Access Point
 
 # Adding an Access Point
 
+##This is a TEST
+
 Adding an access point requires you to log into the Cleo Integration Cloud server to get a script that you then run on the machine where you want to add the access point.
 
 You can run the script on a local machine or a remote machine.
