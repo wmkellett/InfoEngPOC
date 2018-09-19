@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Welcome to EDI Tracker
 ---
 ## Welcome to EDI Tracker
